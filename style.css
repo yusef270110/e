@@ -1,0 +1,10 @@
+body{
+  background-image: url("fondoa.jpg");
+  background-size: 202%;
+  background-position: center;
+};
+#controles{
+    width: 30%;
+}
+#jenga{background-color: rgb(255, 254, 253);
+background-size: cover;}
